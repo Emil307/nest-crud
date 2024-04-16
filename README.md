@@ -1,6 +1,4 @@
-<a href='https://dbdiagram.io/d/661e535e03593b6b611d026b'>
-  <h1>Dbdiagram.io</h1>
-</a>
+<a href='https://dbdiagram.io/d/661e535e03593b6b611d026b' target="_blank">Diagram.io</a>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
